@@ -15,7 +15,6 @@
 
 ## 🎓 Formación Actual  
 **Estudiante de 1º de DAW**  
-*Desarrollo de Aplicaciones Web*  
 
 📚 **Módulos principales:** Programación, Base de Datos, Entornos de Desarrollo, Diseño de Interfaces Web, Desarrollo Web en Entorno Cliente y Servidor.
 

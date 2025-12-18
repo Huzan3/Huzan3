@@ -10,7 +10,7 @@ Este es mi repositorio
 
 ## Tecnologías  
 
-**Java · PostgreSQL · HTTML**  
+**Java**  
 
 ## Formación  
 

@@ -5,7 +5,7 @@ Este es mi repositorio
 ## Repositorios destacados  
 
 - [**Ampliacion — Java**](https://github.com/Huzan3/MPO-Ampliacion_Programacion)
-- **[Ampliacion — Java](https://github.com/tuusuario/java-repo)**
+- 
 - 
 
 ## Tecnologías  

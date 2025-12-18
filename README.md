@@ -4,9 +4,9 @@
 
 ## 📌 Proyectos Destacados  
 
-- [**Ampliación de Programación — Java**](https://github.com/Huzan3/MPO-Ampliacion_Programacion) – Ejercicios avanzados de Java  
+- [**Ampliación de Programación — Java**](https://github.com/Huzan3/MPO-Ampliacion_Programacion) – Ejercicios de Java  
 - [**Sistema de Biblioteca — Java**](https://github.com/Huzan3/Biblioteca) – Aplicación de gestión de biblioteca  
-- [**Prácticas de Lenguajes — Java**](https://github.com/Huzan3/Lenguajes_practicas_pregramacion) – Ejercicios corregidos de programación  
+- [**Prácticas de Lenguajes — Java**](https://github.com/Huzan3/Lenguajes_practicas_pregramacion) – Ejercicios de correccion de programación  
 
 ## 🛠 Tecnologías y Herramientas  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  

@@ -1,17 +1,26 @@
-  # 👋 Bienvenido a este repositorio
+# 👋 Bienvenido a Mi Repositorio
 
-Este es mi repositorio
+¡Hola! Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y este es mi espacio donde comparto proyectos, prácticas y material de aprendizaje relacionados con programación y tecnología.
 
-## 📌 Repositorios destacados  
+## 📌 Proyectos Destacados  
 
-- [**Ampliacion — Java**](https://github.com/Huzan3/MPO-Ampliacion_Programacion)
-- [**Biblioteca — Java**](https://github.com/Huzan3/Biblioteca)
-- [**Corregir — Java**](https://github.com/Huzan3/Lenguajes_practicas_pregramacion)
+- [**Ampliación de Programación — Java**](https://github.com/Huzan3/MPO-Ampliacion_Programacion) – Ejercicios avanzados de Java  
+- [**Sistema de Biblioteca — Java**](https://github.com/Huzan3/Biblioteca) – Aplicación de gestión de biblioteca  
+- [**Prácticas de Lenguajes — Java**](https://github.com/Huzan3/Lenguajes_practicas_pregramacion) – Ejercicios corregidos de programación  
 
-## 🛠 Tecnologías  
+## 🛠 Tecnologías y Herramientas  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
-**Java**  
+## 🎓 Formación Actual  
+**Estudiante de 1º de DAW**  
+*Desarrollo de Aplicaciones Web*  
 
-## 🎓 Formación  
+📚 **Módulos principales:** Programación, Base de Datos, Entornos de Desarrollo, Diseño de Interfaces Web, Desarrollo Web en Entorno Cliente y Servidor.
 
-**Estudiante de DAW**  
+---
+
+⭐ *Si encuentras útil algún proyecto, no dudes en dejar una estrella en el repositorio.*
+
+📫 **Contacto:** [Enlace a tu perfil o email]  

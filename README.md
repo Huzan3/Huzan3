@@ -1,17 +1,17 @@
 # Bienvenido a este repositorio
 
-Es 
+Este es mi repositorio
 
 ## Repositorios destacados  
 
-- **Lenguajes — Java**  
-- **AccesoDatos — CRUD, APIs REST**  
-- **GESTIONBBDD — Gestor de base de datos**  
+- [**Ampliacion — Java**]([https://github.com/tuusuario/java-repo](https://github.com/Huzan3/MPO-Ampliacion_Programacion))
+- 
+- 
 
 ## Tecnologías  
 
 **Java · PostgreSQL · HTTML**  
 
-## Formación Profesional  
+## Formación  
 
 **Estudiante de DAW**  

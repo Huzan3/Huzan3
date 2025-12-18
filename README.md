@@ -1,17 +1,17 @@
-  # Bienvenido a este repositorio
+  # 👋 Bienvenido a este repositorio
 
 Este es mi repositorio
 
-## Repositorios destacados  
+## 📌 Repositorios destacados  
 
 - [**Ampliacion — Java**](https://github.com/Huzan3/MPO-Ampliacion_Programacion)
 - [**Biblioteca — Java**](https://github.com/Huzan3/Biblioteca)
 - [**Corregir — Java**](https://github.com/Huzan3/Lenguajes_practicas_pregramacion)
 
-## Tecnologías  
+## 🛠 Tecnologías  
 
 **Java**  
 
-## Formación  
+## 🎓 Formación  
 
 **Estudiante de DAW**  

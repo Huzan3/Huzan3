@@ -1,14 +1,15 @@
-👋 Bienvenido a Mi Repositorio
+#👋 Bienvenido a Mi Repositorio
 
 ¡Hola! Soy estudiante de Desarrollo de Aplicaciones Web (DAW) y este es mi espacio donde comparto proyectos, prácticas y material de aprendizaje relacionados con programación y tecnología.
 
 🛡️ Además del desarrollo, me apasiona la ciberseguridad. Me encanta entender cómo funcionan las cosas por debajo, buscar vulnerabilidades y aprender a crear aplicaciones más seguras.
-💪 Puntos fuertes
 
-    🔍 Atención al detalle: Perfeccionista a la hora de revisar código y analizar posibles fallos.
-    🧠 Resolución de problemas: Me enfrento a los retos lógicos con ganas de encontrar la mejor solución.
-    🚀 Aprendizaje continuo: Siempre investigando nuevas herramientas, lenguajes y técnicas de seguridad.
-    🤝 Adaptabilidad: Capacidad para aprender rápido y adaptarme a nuevas tecnologías o entornos de trabajo.
+##💪 Puntos fuertes
+
+   - 🔍 Atención al detalle: Perfeccionista a la hora de revisar código y analizar posibles fallos.
+   - 🧠 Resolución de problemas: Me enfrento a los retos lógicos con ganas de encontrar la mejor solución.
+   - 🚀 Aprendizaje continuo: Siempre investigando nuevas herramientas, lenguajes y técnicas de seguridad.
+   - 🤝 Adaptabilidad: Capacidad para aprender rápido y adaptarme a nuevas tecnologías o entornos de trabajo.
 
 
 

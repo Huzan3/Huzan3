@@ -1,10 +1,20 @@
-# 👋 Bienvenido a Mi Repositorio
+👋 Bienvenido a Mi Repositorio
 
-¡Hola! Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y este es mi espacio donde comparto proyectos, prácticas y material de aprendizaje relacionados con programación y tecnología.
+¡Hola! Soy estudiante de Desarrollo de Aplicaciones Web (DAW) y este es mi espacio donde comparto proyectos, prácticas y material de aprendizaje relacionados con programación y tecnología.
+
+🛡️ Además del desarrollo, me apasiona la ciberseguridad. Me encanta entender cómo funcionan las cosas por debajo, buscar vulnerabilidades y aprender a crear aplicaciones más seguras.
+💪 Puntos fuertes
+
+    🔍 Atención al detalle: Perfeccionista a la hora de revisar código y analizar posibles fallos.
+    🧠 Resolución de problemas: Me enfrento a los retos lógicos con ganas de encontrar la mejor solución.
+    🚀 Aprendizaje continuo: Siempre investigando nuevas herramientas, lenguajes y técnicas de seguridad.
+    🤝 Adaptabilidad: Capacidad para aprender rápido y adaptarme a nuevas tecnologías o entornos de trabajo.
+
+
 
 ## 📌 Proyectos Destacados  
 
-- [**Ampliación de Programación — Java**](https://github.com/Huzan3/MPO-Ampliacion_Programacion) – Ejercicios de Java  
+- [**Pagina Web Completa - Java, Html, PostgreSQL**](https://github.com/Huzan3/ProyectoDAW) – Tienda de venta de camisetas 
 - [**Sistema de Biblioteca — Java**](https://github.com/Huzan3/Biblioteca) – Aplicación de gestión de biblioteca  
 - [**Prácticas de Lenguajes — Java**](https://github.com/Huzan3/Lenguajes_practicas_pregramacion) – Ejercicios de correccion de programación  
 
